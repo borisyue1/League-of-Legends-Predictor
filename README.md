@@ -7,3 +7,19 @@ We were originally only able to achieve around 71% accuracy after training the m
 Now that the model is finished, I plan on updating the front-end with React.js so that live matches can be predicted.
 
 <img src="lol-champion-picker/screenshots/landing.png" />
+
+## APIs used
+* Riot Games 
+
+## Languages used 
+* HTML
+* CSS
+* Javascript
+* Node.js
+* Python
+
+## Frameworks/Libraries used 
+* React.js
+* Tensorflow
+* TFLearn
+
