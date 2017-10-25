@@ -4,4 +4,6 @@ This was a project my team started at Cal-hacks last month. We aimed to predict 
 
 We were originally only able to achieve around 71% accuracy after training the model on 25,000 data samples (training set - 20000, validation set - 5000) using only the champions selected by each player as features. We then decided to aggregate more data (~35,000 samples) that contained additional features such as spells selected by each player and various in-game statistics such as which team got the first kill. After adding more features and tuning various hyperparameters with TensorBoard, I got the model to achieve 95% accuracy on the test set.
 
+Now that the model is finished, I plan on updating the front-end with React.js so that live matches can be predicted.
+
 <img src="lol-champion-picker/screenshots/landing.png" />
