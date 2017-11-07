@@ -23,4 +23,3 @@ Now that the model is finished, I plan on updating the front-end with React.js s
 * Tensorflow
 * TFLearn
 
->>>>>>> 5c068c526a9c2ae898f981709b68f4e52bbb7bd1
